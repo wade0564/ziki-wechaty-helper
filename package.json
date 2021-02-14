@@ -1,0 +1,28 @@
+{
+  "name": "ziki-wechaty-helper",
+  "version": "0.0.1",
+  "description": "Ziki wechat helper",
+  "engines": {
+    "node": ">= 12"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "wade",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "wechaty": "^0.57.3",
+    "wechaty-plugin-contrib": "^0.14.15",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
