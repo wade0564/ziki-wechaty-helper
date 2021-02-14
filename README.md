@@ -27,7 +27,7 @@
 
 ## 代码
 ### 仓库地址
-xxxxxx
+https://github.com/wade0564/ziki-wechaty-helper
 
 ### 配置
 
